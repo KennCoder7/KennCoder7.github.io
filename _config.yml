@@ -5,7 +5,7 @@ url: https://kenncoder7.github.io
 avatar: /kavatar.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: assets/MichiganLighthouse.jpg
 
 # Gems
 plugins:
