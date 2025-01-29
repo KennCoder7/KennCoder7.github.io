@@ -1,8 +1,8 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Kun Wang
+description: A PhD candidate in SEU.
+url: https://kenncoder7.github.io
+avatar: /kavatar.png
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Kun Wang
+  url: https://github.com/KennCoder7
+  email: iskenn7@gmail.com
