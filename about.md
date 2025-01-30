@@ -17,7 +17,7 @@ My research interests include:
 - **2013 – 2017**: B.S., School of Automation, Southeast University
 
 # Publications  
-[Google Scholar Link](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=q2cLn5QAAAAJ)|[ORCID](https://orcid.org/0000-0002-6735-7667)
+[Google Scholar Link](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=q2cLn5QAAAAJ) | [ORCID](https://orcid.org/0000-0002-6735-7667)
 
 ## First-Author Publications  
 - **[Dual-Domain Triple Contrast for Cross-Dataset Skeleton-based Action Recognition]()**, K Wang, J Cao, J Ge, C Liu, B Liu, ACM Transactions on Multimedia Computing Communications and Applications, 2025.
@@ -38,3 +38,8 @@ My research interests include:
 - **[Causal-story: Local causal attention utilizing parameter-efficient tuning for visual story synthesis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:9yKSN-GCB0IC)**, T Song, J Cao, K Wang, B Liu, X Zhang, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. 
 
 - **[The layer-wise training convolutional neural networks using local loss for sensor-based human activity recognition](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:u5HHmVD_uO8C)**, Q Teng, K Wang, L Zhang, J He, IEEE Sensors Journal, 2020.
+
+
+# Contact  
+- **GitHub**: [KennCoder7](https://github.com/KennCoder7) 
+- **Email**: iskenn7@gmail.com | kun_wang@seu.edu.cn
