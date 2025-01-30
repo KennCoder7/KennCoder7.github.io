@@ -43,3 +43,6 @@ My research interests include:
 # Contact  
 - **GitHub**: [KennCoder7](https://github.com/KennCoder7) 
 - **Email**: iskenn7@gmail.com; kun_wang@seu.edu.cn
+
+- # Interests  
+Beyond research, I enjoy exploring new ideas and sharing my experiences. If you're interested in learning more about my personal interests, feel free to check out my **Xiaohongshu (RedNote)**: [My RedNote Profile](https://www.xiaohongshu.com/user/profile/5d2be139000000001203906d)  
