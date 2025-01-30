@@ -20,14 +20,14 @@ My research interests include:
 [Google Scholar Link](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=q2cLn5QAAAAJ) | [ORCID](https://orcid.org/0000-0002-6735-7667)
 
 ## First-Author Publications  
-- **[Dual-Domain Triple Contrast for Cross-Dataset Skeleton-based Action Recognition]()**, K Wang, J Cao, J Ge, C Liu, B Liu, ACM Transactions on Multimedia Computing Communications and Applications, 2025.
+- **[Dual-Domain Triple Contrast for Cross-Dataset Skeleton-based Action Recognition]()**, K Wang, J Cao, J Ge, C Liu, B Liu, ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 2025.
 
 - **[Text-to-face synthesis based on facial landmarks prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:UeHWp8X0CEIC)**, K Wang, L Chen, B Cao, B Liu, J Cao, Machine Vision and Applications, 2025.
 
 - **[EnsCLR: Unsupervised skeleton-based action recognition via ensemble contrastive learning of representation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:2osOgNQ5qMEC)**, K Wang, J Cao, B Cao, B Liu, Computer Vision and Image Understanding, 2024.
 
 
-- **[Sequential weakly labeled multiactivity localization and recognition on wearable sensors using recurrent attention networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:u-x6o8ySG0sC)**, K Wang, J He, L Zhang, IEEE Transactions on Human-Machine Systems, 2021. 
+- **[Sequential weakly labeled multiactivity localization and recognition on wearable sensors using recurrent attention networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:u-x6o8ySG0sC)**, K Wang, J He, L Zhang, IEEE Transactions on Human-Machine Systems (THMS), 2021. 
 
 - **[Attention-based convolutional neural network for weakly labeled human activities’ recognition with wearable sensors](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:d1gkVwhDpl0C)**, K Wang, J He, L Zhang, IEEE Sensors Journal, 2019.
 
