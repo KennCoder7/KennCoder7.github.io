@@ -17,7 +17,7 @@ My research interests include:
 - **2013 – 2017**: B.S., School of Automation, Southeast University
 
 # Publications  
-[Google Scholar Link](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=q2cLn5QAAAAJ)
+[Google Scholar Link](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=q2cLn5QAAAAJ)|[ORCID](https://orcid.org/0000-0002-6735-7667)
 
 ## First-Author Publications  
 - **[Dual-Domain Triple Contrast for Cross-Dataset Skeleton-based Action Recognition]()**, K Wang, J Cao, J Ge, C Liu, B Liu, ACM Transactions on Multimedia Computing Communications and Applications, 2025.
