@@ -24,7 +24,7 @@ My research interests include:
 
 - **[Text-to-face synthesis based on facial landmarks prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:UeHWp8X0CEIC)**, K Wang, L Chen, B Cao, B Liu, J Cao, Machine Vision and Applications, 2025.
 
-- **[EnsCLR: Unsupervised skeleton-based action recognition via ensemble contrastive learning of representation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:2osOgNQ5qMEC)**, K Wang, J Cao, B Cao, B Liu, Computer Vision and Image Understanding, 2024.
+- **[EnsCLR: Unsupervised skeleton-based action recognition via ensemble contrastive learning of representation](https://kenncoder7.github.io/2025/01/30/EnsCLR/)**, K Wang, J Cao, B Cao, B Liu, Computer Vision and Image Understanding, 2024.
 
 
 - **[Sequential weakly labeled multiactivity localization and recognition on wearable sensors using recurrent attention networks](https://kenncoder7.github.io/2025/01/30/RAN/)**, K Wang, J He, L Zhang, IEEE Transactions on Human-Machine Systems (THMS), 2021. 
