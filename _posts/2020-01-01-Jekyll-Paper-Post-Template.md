@@ -15,8 +15,8 @@ We proposed a jekyll post template.
 - **Title**: Jekyll Paper Post Template
 - **Author(s)**: K Wang
 - **Conference/Journal Name**: GitHub Pages
-- **Date**: 2025
-- **Link**: [IEEE Xplore](https://)
+- **Date**: 2020
+- **Link**: [google](https://)
 - **GitHub**: [github](https://github.com/KennCoder7/)
   
 ## Abstract
