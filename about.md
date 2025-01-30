@@ -12,8 +12,10 @@ My research interests include:
 - Weakly Supervised Learning  
 
 # Education  
-- **2021 – Present**: Ph.D. Candidate, School of Cyber Science and Engineering, Southeast University  
-- **2018 – 2021**: M.S., School of Electrical and Automation Engineering, Nanjing Normal University  
+- **2021 – Present**: Ph.D. Candidate, School of Cyber Science and Engineering, Southeast University
+  - **Advisor**: [Jiuxin Cao](https://cyber.seu.edu.cn/cjx1/list.htm)
+- **2018 – 2021**: M.S., School of Electrical and Automation Engineering, Nanjing Normal University
+  - **Advisor**: [Lei Zhang](https://eae.njnu.edu.cn/info/1052/2352.htm) 
 - **2013 – 2017**: B.S., School of Automation, Southeast University
 
 # Publications  
