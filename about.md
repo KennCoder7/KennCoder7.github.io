@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kun Wang
+title: About Me
 ---
 Hi! I am a Ph.D. candidate at Southeast University (SEU), specializing in pattern recognition and representation learning in artificial intelligence. My research focuses on developing advanced learning techniques to improve the generalization and robustness of AI models.  
 
@@ -47,7 +47,7 @@ My research interests include:
 - **GitHub**: [KennCoder7](https://github.com/KennCoder7) 
 - **Email**: iskenn7@gmail.com; kun_wang@seu.edu.cn
 
-# Interests  
+# Lifetime Interests  
 Beyond research, I enjoy exploring new ideas and sharing my experiences. 
 
 If you're interested in learning more about my personal interests, feel free to check out my **Xiaohongshu (RedNote)**: [My RedNote Profile](https://www.xiaohongshu.com/user/profile/5d2be139000000001203906d)  
