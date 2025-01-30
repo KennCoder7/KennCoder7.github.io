@@ -42,4 +42,4 @@ My research interests include:
 
 # Contact  
 - **GitHub**: [KennCoder7](https://github.com/KennCoder7) 
-- **Email**: iskenn7@gmail.com | kun_wang@seu.edu.cn
+- **Email**: iskenn7@gmail.com; kun_wang@seu.edu.cn
