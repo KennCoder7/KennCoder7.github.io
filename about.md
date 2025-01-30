@@ -17,11 +17,24 @@ My research interests include:
 - **2013 – 2017**: B.S., School of Automation, Southeast University
 
 # Publications  
-  
+[Google Scholar Link](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=q2cLn5QAAAAJ)
+
 ## First-Author Publications  
-- **[Paper Title]**, Conference/Journal Name, Year. [[DOI/Link]]  
-- **[Attention-based convolutional neural network for weakly labeled human activities’ recognition with wearable sensors](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:d1gkVwhDpl0C)**, K Wang, J He, L Zhang, IEEE Sensors Journal, 2019. [Google Scholar Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:d1gkVwhDpl0C)  
+- **[Dual-Domain Triple Contrast for Cross-Dataset Skeleton-based Action Recognition]()**, K Wang, J Cao, J Ge, C Liu, B Liu, ACM Transactions on Multimedia Computing Communications and Applications, 2025.
+
+- **[Text-to-face synthesis based on facial landmarks prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:UeHWp8X0CEIC)**, K Wang, L Chen, B Cao, B Liu, J Cao, Machine Vision and Applications, 2025.
+
+- **[EnsCLR: Unsupervised skeleton-based action recognition via ensemble contrastive learning of representation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:2osOgNQ5qMEC)**, K Wang, J Cao, B Cao, B Liu, Computer Vision and Image Understanding, 2024.
+
+
+- **[Sequential weakly labeled multiactivity localization and recognition on wearable sensors using recurrent attention networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:u-x6o8ySG0sC)**, K Wang, J He, L Zhang, IEEE Transactions on Human-Machine Systems, 2021. 
+
+- **[Attention-based convolutional neural network for weakly labeled human activities’ recognition with wearable sensors](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:d1gkVwhDpl0C)**, K Wang, J He, L Zhang, IEEE Sensors Journal, 2019.
 
 ## Co-Authored Publications  
-- **[Paper Title]**, Conference/Journal Name, Year. [[DOI/Link]]  
-- **The layer-wise training convolutional neural networks using local loss for sensor-based human activity recognition**, IEEE Sensors Journal, Year. [[DOI/Link]] 
+
+- **[Consistencies are all you need for semi-supervised vision-language tracking](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:qjMakFHDy7sC)**, J Ge, J Cao, X Zhu, X Zhang, C Liu, K Wang, B Liu, Proceedings of the 32nd ACM International Conference on Multimedia, 2024.
+
+- **[Causal-story: Local causal attention utilizing parameter-efficient tuning for visual story synthesis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:9yKSN-GCB0IC)**, T Song, J Cao, K Wang, B Liu, X Zhang, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. 
+
+- **[The layer-wise training convolutional neural networks using local loss for sensor-based human activity recognition](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:u5HHmVD_uO8C)**, Q Teng, K Wang, L Zhang, J He, IEEE Sensors Journal, 2020.
