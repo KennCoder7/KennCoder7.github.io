@@ -1,13 +1,17 @@
 ---
 layout: post
-title: Jekyll Paper Post Template Title
+title: Click Title for Details!
 author: Kun Wang
 tags:
   - paper
-date: '2020-01-01 10:00 +0800'
+date: '2077-01-01 10:00 +0800'
+permalink: /pinned-post/
+redirect_from:
+  - /2020/01/01/Jekyll-Paper-Post-Template/ 
 ---
 
-We proposed a jekyll post template.
+This is a pinned post to help you explore more.
+
 
 ![]({{site.baseurl}}/assets/x.jpg)
 
