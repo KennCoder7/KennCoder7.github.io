@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click Title for Details!
+title: 📌 Click Title for Details!
 author: Kun Wang
 tags:
   - paper
@@ -11,9 +11,9 @@ redirect_from:
 pinned: true
 ---
 
-📌 This is a pinned post to help you explore more. Click on a post title in [Paper Insights](https://kenncoder7.github.io/) for paper details, and click on [About Me](https://kenncoder7.github.io/about/) to learn more about me.
+This is a pinned post to help you explore more. Click on a post title in [Paper Insights](https://kenncoder7.github.io/) for paper details, and click on [About Me](https://kenncoder7.github.io/about/) to learn more about me.
 
-😃 I hope these paper insights are helpful to you. If you find them useful, please consider citing them.
+I hope these paper insights are helpful to you. If you find them useful, please consider citing them. 😃
 
 - **[Dual-Domain Triple Contrast for Cross-Dataset Skeleton-based Action Recognition](https://kenncoder7.github.io/2025/01/30/D2TC/)**, K Wang, J Cao, J Ge, C Liu, B Liu, ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 2025.
 
