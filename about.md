@@ -36,11 +36,11 @@ My research interests include:
 
 ## Co-Authored Publications  
 
-- **[Consistencies are all you need for semi-supervised vision-language tracking](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:qjMakFHDy7sC)**, J Ge, J Cao, X Zhu, X Zhang, C Liu, K Wang, B Liu, Proceedings of the 32nd ACM International Conference on Multimedia, 2024.
+- **Consistencies are all you need for semi-supervised vision-language tracking**, J Ge, J Cao, X Zhu, X Zhang, C Liu, K Wang, B Liu, Proceedings of the 32nd ACM International Conference on Multimedia, 2024.
 
-- **[Causal-story: Local causal attention utilizing parameter-efficient tuning for visual story synthesis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:9yKSN-GCB0IC)**, T Song, J Cao, K Wang, B Liu, X Zhang, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. 
+- **Causal-story: Local causal attention utilizing parameter-efficient tuning for visual story synthesis**, T Song, J Cao, K Wang, B Liu, X Zhang, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. 
 
-- **[The layer-wise training convolutional neural networks using local loss for sensor-based human activity recognition](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q2cLn5QAAAAJ&citation_for_view=q2cLn5QAAAAJ:u5HHmVD_uO8C)**, Q Teng, K Wang, L Zhang, J He, IEEE Sensors Journal, 2020.
+- **The layer-wise training convolutional neural networks using local loss for sensor-based human activity recognition**, Q Teng, K Wang, L Zhang, J He, IEEE Sensors Journal, 2020.
 
 
 # Contact  
