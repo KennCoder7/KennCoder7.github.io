@@ -23,7 +23,7 @@ My research interests include:
 [Google Scholar Link](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=q2cLn5QAAAAJ) | [ORCID](https://orcid.org/0000-0002-6735-7667)
 
 ## 📝 First-Author Publications  
-- **[Dual-Domain Triple Contrast for Cross-Dataset Skeleton-based Action Recognition](https://kenncoder7.github.io/2025/01/30/D2TC/)**, K Wang, J Cao, J Ge, C Liu, B Liu, ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 2025.
+- **[Dual-Domain Triple Contrast for Cross-Dataset Skeleton-based Action Recognition](https://kenncoder7.github.io/d2tc/)**, K Wang, J Cao, J Ge, C Liu, B Liu, ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 2025.
 
 - **[Text-to-face synthesis based on facial landmarks prediction](https://kenncoder7.github.io/2025/01/30/FLPGAN/)**, K Wang, L Chen, B Cao, B Liu, J Cao, Machine Vision and Applications, 2025.
 
