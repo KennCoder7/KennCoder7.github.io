@@ -15,7 +15,7 @@ This is a pinned post to help you explore more. Click on a post title in [Paper 
 
 I hope these paper insights are helpful to you. If you find them useful, please consider citing them. 😃
 
-- **[Dual-Domain Triple Contrast for Cross-Dataset Skeleton-based Action Recognition](https://kenncoder7.github.io/2025/01/30/D2TC/)**, K Wang, J Cao, J Ge, C Liu, B Liu, ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 2025.
+- **[Dual-Domain Triple Contrast for Cross-Dataset Skeleton-based Action Recognition](https://kenncoder7.github.io/d2tc/)**, K Wang, J Cao, J Ge, C Liu, B Liu, ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 2025.
 
 - **[Text-to-face synthesis based on facial landmarks prediction](https://kenncoder7.github.io/2025/01/30/FLPGAN/)**, K Wang, L Chen, B Cao, B Liu, J Cao, Machine Vision and Applications, 2025.
 
