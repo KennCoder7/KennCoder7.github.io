@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 ---
-👋 Hi! I am a Ph.D. candidate at Southeast University (SEU), specializing in pattern recognition and representation learning in artificial intelligence. My research focuses on developing advanced learning techniques to improve the generalization and robustness of AI models.  
+👋 Hi! I am Kun Wang (王焜), a faculty member in the School of Computer Science, Nanjing Audit University, China.
 
 # 🔬 Research Interests  
 My research interests include:  
@@ -12,15 +12,18 @@ My research interests include:
 - Weakly Supervised Learning
 - Unsupervised Domain Adaptation
 
+# 💼 Academic Position
+- **2025 – Present**: Lecturer, School of Computer Science, Nanjing Audit University
+
 # 🎓 Education  
-- **2021 – Present**: Ph.D. Candidate, School of Cyber Science and Engineering, Southeast University
+- **2021 – 2025**: Ph.D. Candidate, School of Cyber Science and Engineering, Southeast University
   - **Advisor**: [Jiuxin Cao](https://cyber.seu.edu.cn/cjx1/list.htm)
 - **2018 – 2021**: M.S., School of Electrical and Automation Engineering, Nanjing Normal University
   - **Advisor**: [Lei Zhang](https://eae.njnu.edu.cn/info/1052/2352.htm) 
 - **2013 – 2017**: B.S., School of Automation, Southeast University
 
 # 📚 Publications  
-[Google Scholar Link](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=q2cLn5QAAAAJ) | [ORCID](https://orcid.org/0000-0002-6735-7667)
+[Google Scholar Link](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=q2cLn5QAAAAJ) | [ORCID](https://orcid.org/0000-0002-6735-7667) | [DBLP](https://dblp.org/pid/05/1958-57)
 
 ## 📝 First-Author Publications  
 - **[Dual-Domain Triple Contrast for Cross-Dataset Skeleton-based Action Recognition](https://kenncoder7.github.io/d2tc/)**, K Wang, J Cao, J Ge, C Liu, B Liu, ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 2025.
@@ -44,4 +47,4 @@ My research interests include:
 
 # 📬 Contact  
 - **GitHub**: [KennCoder7](https://github.com/KennCoder7) 
-- **Email**: iskenn7@gmail.com; kun_wang@seu.edu.cn
+- **Email**: iskenn7@gmail.com; kun_wang@nau.edu.cn
