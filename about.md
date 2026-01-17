@@ -16,7 +16,7 @@ My research interests include:
 - **2025 – Present**: Lecturer, School of Computer Science, Nanjing Audit University
 
 # 🎓 Education  
-- **2021 – 2025**: Ph.D. Candidate, School of Cyber Science and Engineering, Southeast University
+- **2021 – 2025**: Ph.D., School of Cyber Science and Engineering, Southeast University
   - **Advisor**: [Jiuxin Cao](https://cyber.seu.edu.cn/cjx1/list.htm)
 - **2018 – 2021**: M.S., School of Electrical and Automation Engineering, Nanjing Normal University
   - **Advisor**: [Lei Zhang](https://eae.njnu.edu.cn/info/1052/2352.htm) 
